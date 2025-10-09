@@ -1,6 +1,6 @@
 # Personal Website
 
-[link](https://andrewlorusso.github.io/andrewloursso/)
+[link](https://andrewlorusso.github.io/andrewlorusso/)
 
 **Spec**
 - No js
